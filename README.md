@@ -60,7 +60,7 @@ A full-stack web application that combines weather information, movie searches, 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/bzg-creator/render_final
+   git clone https://github.com/Amadeus105/WebFinal
    cd digital-camera-store
    ```
 2. Install dependencies:
